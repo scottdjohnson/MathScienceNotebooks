@@ -9,6 +9,6 @@ Jupyter notebooks for math and science exploration, along with publication links
 
 [Visualizing the COVID-19 curve](https://towardsdatascience.com/visualizing-the-covid-19-curve-a5f99f4de43f)
 
-**Challenging “Criminal tendency detection from facial images and the gender bias effect”** Revealing the experimental flaws in a recent paper on detecting criminality from facial images using deep learning
+**Challenging "Criminal tendency detection from facial images and the gender bias effect":** Revealing the experimental flaws in a recent paper on detecting criminality from facial images using deep learning
 
 [AI pseudoscience and scientific racism](https://towardsdatascience.com/ai-pseudoscience-and-scientific-racism-693f1444c959)
